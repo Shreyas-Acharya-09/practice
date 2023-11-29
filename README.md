@@ -1,3 +1,3 @@
 # practice
 
-Author - Shreyas Acharya
+Author - Shreyas Acharya - Web Designer & Developer
